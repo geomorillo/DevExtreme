@@ -54,7 +54,7 @@
         "dxFileUploader-upload": "Subir",
         "dxFileUploader-uploaded": "Subido",
         "dxFileUploader-readyToUpload": "Listo para subir",
-        "dxFileUploader-uploadFailedMessage": "Falla ao subir",
+        "dxFileUploader-uploadFailedMessage": "Falla al subir",
         "dxFileUploader-invalidFileExtension": "Tipo de archivo no está permitido",
         "dxFileUploader-invalidMaxFileSize": "Archivo es muy grande",
         "dxFileUploader-invalidMinFileSize": "Archivo es muy pequeño",
